@@ -1,0 +1,101 @@
+﻿employee_id,employee_name,department,job_title,start_date,terminated_date,status
+EMP0001,Amelia Bailey,Finance,Accountant,2025-02-15,,Active
+EMP0002,Adam Carter,Operations,Service Delivery Manager,2016-07-27,,Active
+EMP0003,Henry Murphy,Human Resources,HR Business Partner,2023-10-09,2025-11-06,Terminated
+EMP0004,Jack Phillips,Information Security,Security Operations Manager,2018-11-21,,Active
+EMP0005,Noah Wright,Marketing,Marketing Manager,2018-05-22,,Active
+EMP0006,Henry Bailey,Customer Support,Service Desk Analyst,2022-07-23,2025-03-03,Terminated
+EMP0007,Omar Edwards,Engineering,QA Engineer,2016-07-07,,Active
+EMP0008,Benjamin Khan,Sales,Sales Development Representative,2020-12-06,,Active
+EMP0009,Ethan Baker,Information Technology,IT Operations Manager,2022-10-24,2023-03-10,Terminated
+EMP0010,Alice Evans,Sales,Sales Operations Analyst,2025-08-12,,Active
+EMP0011,Ethan Stewart,Operations,Operations Analyst,2024-06-22,,Active
+EMP0012,Nadia Morgan,Customer Support,Customer Support Specialist,2024-02-05,,Active
+EMP0013,Oliver Cook,Finance,Finance Analyst,2023-05-10,,Active
+EMP0014,Oliver Turner,Engineering,Engineering Manager,2025-01-28,,Active
+EMP0015,Leah Wilson,Human Resources,HR Coordinator,2016-12-13,,Active
+EMP0016,Hannah Campbell,Information Security,IAM Engineer,2023-09-04,,Active
+EMP0017,Leo Young,Information Technology,Cloud Engineer,2016-01-18,2017-11-09,Terminated
+EMP0018,Benjamin Walker,Human Resources,HR Coordinator,2017-02-24,,Active
+EMP0019,Ella Morgan,Operations,Business Operations Specialist,2022-01-15,,Active
+EMP0020,Sara Thomas,Engineering,Engineering Manager,2016-01-08,,Active
+EMP0021,Yusuf Stewart,Marketing,Marketing Manager,2026-02-20,,Active
+EMP0022,Yusuf Bailey,Operations,Operations Analyst,2023-10-09,,Active
+EMP0023,Henry Murphy 2,Finance,Accountant,2022-10-27,,Active
+EMP0024,Chloe Murphy,Engineering,DevOps Engineer,2020-10-31,,Active
+EMP0025,Chloe Smith,Marketing,Content Strategist,2023-02-03,,Active
+EMP0026,Ruby Thomas,Information Technology,Systems Administrator,2024-05-22,2025-06-15,Terminated
+EMP0027,Layla Cook,Human Resources,HR Manager,2020-03-06,2026-05-12,Terminated
+EMP0028,Ethan King,Finance,Financial Controller,2024-04-14,,Active
+EMP0029,Alice Carter,Marketing,Marketing Coordinator,2025-05-11,,Active
+EMP0030,Isla Parker,Operations,Business Operations Specialist,2020-02-15,,Active
+EMP0031,Leah Murphy,Human Resources,HR Manager,2022-09-23,,Active
+EMP0032,Omar Thomas,Information Technology,Infrastructure Engineer,2025-01-12,,Active
+EMP0033,Samuel Wright,Engineering,QA Engineer,2021-08-04,,Active
+EMP0034,Sofia Carter,Engineering,DevOps Engineer,2026-04-29,,Active
+EMP0035,Fatima Parker,Information Technology,Cloud Engineer,2017-07-22,,Active
+EMP0036,Oliver Parker,Sales,Regional Sales Manager,2019-04-09,,Active
+EMP0037,Oscar Campbell,Sales,Key Account Manager,2025-08-20,,Active
+EMP0038,Daniel Bailey,Customer Support,Support Team Lead,2018-12-14,,Active
+EMP0039,Priya Murphy,Operations,Operations Manager,2019-01-05,,Active
+EMP0040,Emily Collins,Human Resources,People Operations Analyst,2016-09-26,2020-09-24,Terminated
+EMP0041,Alice Young,Customer Support,Technical Support Engineer,2020-06-26,,Active
+EMP0042,Grace Green,Information Security,Security Engineer,2017-12-30,,Active
+EMP0043,Noah Collins,Sales,Key Account Manager,2023-06-25,,Active
+EMP0044,Jack Wilson,Information Security,GRC Analyst,2019-11-21,,Active
+EMP0045,Nadia Murphy,Engineering,Data Engineer,2025-07-01,2026-07-29,Terminated
+EMP0046,Samuel Campbell,Finance,Accountant,2022-01-17,,Active
+EMP0047,Sara Collins,Information Technology,Systems Administrator,2021-02-21,,Active
+EMP0048,Priya Morris,Customer Support,Support Team Lead,2023-10-19,,Active
+EMP0049,Samuel Davies,Information Security,Security Engineer,2016-05-13,,Active
+EMP0050,Liam Nelson,Information Technology,Infrastructure Engineer,2016-01-09,,Active
+EMP0051,Lucas Clark,Customer Support,Customer Success Manager,2019-12-02,,Active
+EMP0052,Noah Bailey,Operations,Service Delivery Manager,2023-02-12,2024-01-03,Terminated
+EMP0053,Maya Stewart,Legal & Compliance,Legal Operations Specialist,2016-06-26,2019-06-16,Terminated
+EMP0054,Amelia Nelson,Human Resources,Talent Acquisition Specialist,2019-07-06,,Active
+EMP0055,Benjamin Rogers,Engineering,Software Engineer,2017-04-19,2020-09-14,Terminated
+EMP0056,Maya Turner,Sales,Sales Development Representative,2017-10-30,2026-07-20,Terminated
+EMP0057,Leah Young,Finance,Financial Controller,2016-02-03,,Active
+EMP0058,James Evans,Finance,FP&A Analyst,2024-10-29,2025-04-29,Terminated
+EMP0059,Liam Smith,Marketing,Marketing Coordinator,2016-03-03,,Active
+EMP0060,Leo Wilson,Human Resources,Talent Acquisition Specialist,2021-07-26,,Active
+EMP0061,Fatima Bailey,Human Resources,People Operations Analyst,2023-01-20,,Active
+EMP0062,Alice Roberts,Finance,Accountant,2023-09-17,,Active
+EMP0063,Amelia King,Finance,Accountant,2025-07-13,,Active
+EMP0064,Ella Wilson,Legal & Compliance,Legal Counsel,2021-07-29,,Active
+EMP0065,Priya Evans,Engineering,Data Engineer,2026-07-19,,Active
+EMP0066,George Khan,Legal & Compliance,Privacy Analyst,2020-07-20,,Active
+EMP0067,Liam Baker,Sales,Account Executive,2018-03-12,,Active
+EMP0068,Hannah Brown,Customer Support,Service Desk Analyst,2021-10-22,2024-06-10,Terminated
+EMP0069,Nathan Brown,Finance,Financial Controller,2025-07-13,2026-02-04,Terminated
+EMP0070,Mia Nelson,Operations,Operations Analyst,2026-05-19,,Active
+EMP0071,Sara Brown,Legal & Compliance,Compliance Manager,2024-11-22,,Active
+EMP0072,Emily Lewis,Information Security,IAM Analyst,2017-09-20,,Active
+EMP0073,Oscar Morgan,Information Security,IAM Engineer,2024-06-19,,Active
+EMP0074,Nadia Young,Marketing,Marketing Manager,2017-05-27,,Active
+EMP0075,Amelia Taylor,Information Security,IAM Analyst,2026-04-17,,Active
+EMP0076,Leah Morris,Operations,Service Delivery Manager,2025-03-13,,Active
+EMP0077,Maya Evans,Legal & Compliance,Compliance Analyst,2025-08-05,,Active
+EMP0078,Sofia Reed,Marketing,Content Strategist,2021-06-11,2023-08-02,Terminated
+EMP0079,Chloe Phillips,Finance,Financial Controller,2017-03-10,2023-05-31,Terminated
+EMP0080,Alice Wilson,Legal & Compliance,Legal Counsel,2017-10-24,,Active
+EMP0081,Ruby Taylor,Information Technology,Network Engineer,2022-04-01,2024-06-14,Terminated
+EMP0082,Ryan Lewis,Customer Support,Technical Support Engineer,2025-07-26,,Active
+EMP0083,Leah Carter,Marketing,Marketing Manager,2024-02-01,2025-11-03,Terminated
+EMP0084,Layla Thomas,Information Technology,Infrastructure Engineer,2017-04-12,2019-07-24,Terminated
+EMP0085,Henry Cook,Legal & Compliance,Privacy Analyst,2018-01-27,,Active
+EMP0086,Amelia Lewis,Marketing,Marketing Manager,2025-08-18,,Active
+EMP0087,Aisha Evans,Operations,Operations Manager,2018-02-23,,Active
+EMP0088,Nadia Taylor,Human Resources,HR Business Partner,2022-06-21,,Active
+EMP0089,Emily King,Customer Support,Service Desk Analyst,2017-11-19,2023-11-27,Terminated
+EMP0090,Sofia Nelson,Human Resources,Talent Acquisition Specialist,2019-02-14,,Active
+EMP0091,Ruby Cook,Customer Support,Technical Support Engineer,2020-11-17,,Active
+EMP0092,Daniel Parker,Operations,Operations Analyst,2018-03-27,2021-02-17,Terminated
+EMP0093,Chloe Morgan,Engineering,Senior Software Engineer,2026-01-05,,Active
+EMP0094,Nadia Carter,Engineering,Data Engineer,2024-05-30,,Active
+EMP0095,Ethan Hall,Information Security,IAM Engineer,2021-11-04,2025-07-16,Terminated
+EMP0096,Lucas Hall,Information Technology,IT Support Analyst,2020-12-13,,Active
+EMP0097,Noah Roberts,Sales,Key Account Manager,2026-03-22,,Active
+EMP0098,Thomas Wilson,Marketing,Digital Marketing Specialist,2023-06-15,,Active
+EMP0099,Sara Campbell,Customer Support,Technical Support Engineer,2023-09-28,,Active
+EMP0100,Leo Young 2,Information Technology,Systems Administrator,2018-12-25,,Active

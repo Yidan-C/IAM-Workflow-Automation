@@ -1,0 +1,10 @@
+application_name,employee_id,employee_name,department,job_title,employees_status,terminated_date,user_id,user_name,access_group,account_status,last_login_date,days_after_termination,exception_type,risk_level
+FinanceCore,EMP0084,Layla Thomas,Information Technology,Infrastructure Engineer,Terminated,2019-07-24,FCU0055,layla.thomas,financecore_support,Active,2019-08-02,9,Post-termination login,High Risk
+FinanceCore,EMP0017,Leo Young,Information Technology,Cloud Engineer,Terminated,2017-11-09,FCU0011,leo.young,administrators,Active,2017-11-24,15,Post-termination login,High Risk
+FinanceCore,EMP0009,Ethan Baker,Information Technology,IT Operations Manager,Terminated,2023-03-10,FCU0005,ethan.baker,financecore_readonly,Active,2023-05-03,54,Post-termination login,High Risk
+FinanceCore,EMP0040,Emily Collins,Human Resources,People Operations Analyst,Terminated,2020-09-24,FCU0027,emily.collins,financecore_readonly,Active,2020-08-03,,Active account only,Medium Risk
+FinanceCore,EMP0053,Maya Stewart,Legal & Compliance,Legal Operations Specialist,Terminated,2019-06-16,FCU0036,maya.stewart,financecore_reporting,Active,2019-06-04,,Active account only,Medium Risk
+Payroll,EMP0003,Henry Murphy,Human Resources,HR Business Partner,Terminated,2025-11-06,PAY0003,henry.murphy0003,payroll_hr_admin,Active,2025-12-03,27,Post-termination login,High Risk
+Payroll,EMP0009,Ethan Baker,Information Technology,IT Operations Manager,Terminated,2023-03-10,PAY0009,ethan.baker0009,payroll_users,Active,2023-04-09,30,Post-termination login,High Risk
+Payroll,EMP0006,Henry Bailey,Customer Support,Service Desk Analyst,Terminated,2025-03-03,PAY0006,henry.bailey0006,payroll_users,Active,2025-04-12,40,Post-termination login,High Risk
+Payroll,EMP0017,Leo Young,Information Technology,Cloud Engineer,Terminated,2017-11-09,PAY0017,leo.young0017,payroll_users,Active,2017-12-22,43,Post-termination login,High Risk

@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-st.title("IAM Controls Automation") #page title
-st.write("Leaver controls dashboard") #dashborad description
+st.title("IAM Workflow Automation") #page title
+st.subheader("Leaver workflow dashboard") #dashboard description
 
 employees = pd.read_csv('source_data/employees.csv')
 financecore = pd.read_csv('source_data/FinanceCore.csv')

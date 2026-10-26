@@ -1,8 +1,8 @@
 > Note: All data used in this project is synthetic and created for demonstration purposes only.
 
-# IAM Controls Automation
+# IAM Workflow Automation
 
-A personal project exploring how SQL, Python and automation can be used to perform and report IAM control testing.
+A personal project exploring how SQL and Python automation can be used to automatically perform and report IAM control testing.
 
 ## Current Functionality
 
@@ -16,7 +16,7 @@ A personal project exploring how SQL, Python and automation can be used to perfo
 - Provides Streamlit reporting for key control metrics and exception details
 
 ## Dashboard Preview
-![IAM Controls Automation Dashboard](dashboard_screenshot.jpg)
+![IAM Workflow Automation Dashboard](dashboard_screenshot.jpg)
 
 ## Technology
 
@@ -37,10 +37,12 @@ HR and application data
 ## Project Status
 
 Completed:
-- Leaver Controls V1
+- Leaver Workflow V1
 
 Planned:
-- Joiner Controls, including access approval evidence processing and planned AI-assisted evidence extraction
-- Mover Controls
-- Periodic User Access Review
-- Privileged Access Controls
+- Joiner, including access approval evidence processing and planned AI-assisted evidence extraction
+- Leaver Workflow V2, including AI-Assisted Data Cleaning and Evidence Processing, with Automated Testing Results Table Generation
+- Mover
+- Privileged Access
+- Passwords Configuration
+- Change Management SoD

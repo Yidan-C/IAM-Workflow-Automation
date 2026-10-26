@@ -16,7 +16,7 @@ A personal project exploring how SQL and Python automation can be used to automa
 - Provides Streamlit reporting for key control metrics and exception details
 
 ## Dashboard Preview
-![IAM Workflow Automation Dashboard](dashboard_screenshot.jpg)
+![IAM Workflow Automation Dashboard](dashboard_screenshot.png)
 
 ## Technology
 

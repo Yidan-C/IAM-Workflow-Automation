@@ -31,5 +31,16 @@ application_breakdown['exception_rate'] = (application_breakdown['exception_coun
 st.subheader("Exceptions by application")
 st.dataframe(application_breakdown.style.format({'exception_rate': '{:.2f}%'}))
 
-st.dataframe(exceptions) #exception details
+st.dataframe(
+    exceptions[ 
+    [ 
+        'application_name',
+        'employee_name',
+        'terminated_date',
+        'last_login_date',
+        'exception_type',
+        'risk_level'
+    ]
+]
+)
 
